@@ -20,7 +20,7 @@ The setup includes:
 
 ## ⚙️ Execution
 
-- To run, open a terminal, and in the folder where is the makefile do: 
+- To run, open a terminal and navigate to the folder where the Makefile is located, then do the following: 
 ```shell
 make
 ```
@@ -33,12 +33,12 @@ make
 - redis
 - static website
 
-## ⚙️ 
+## ⚙️ Execution BONUS
 
-- adminer
-- ftp
-- prometheus
-- redis
-- static website
+- Go to the docker-compose.yml file and uncomment the bonus part.
+- To run, open a terminal and navigate to the folder where the Makefile is located, then do the following:
+```shell
+make
+```
 
 ## Grade: 125/100
