@@ -96,7 +96,7 @@ Setting up an FTP server container pointing to your WordPress site's volume faci
 #### How to Test?
 
 ```shell
-echo HELLO > aaa.txt
+echo Testing FTP > aaa.txt
 docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' ftp
 ftp ftp <ftp value>
 ```
@@ -135,7 +135,7 @@ replace 'login' for yor login in 42'school
 Adminer is a web-based database management tool that allows users to interact with databases easily and intuitively. Here are some key points about Adminer:
 
 - Web Interface: Adminer provides a simple and user-friendly web interface for managing databases.
-    Support for Multiple Databases: It supports multiple database management systems, including MySQL, PostgreSQL, SQLite, MS SQL, Oracle, and others.
+- Support for Multiple Databases: It supports multiple database management systems, including MySQL, PostgreSQL, SQLite, MS SQL, Oracle, and others.
 - Features: Allows you to execute SQL queries, manage tables, view and edit data, create and delete databases, and much more.
 - Simple Installation: It is easy to install and configure, usually requiring just a single PHP file.
 - Security: Offers various security options, including user authentication and support for secure connections.
