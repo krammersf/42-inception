@@ -98,7 +98,7 @@ Setting up an FTP server container pointing to your WordPress site's volume faci
 ```shell
 echo Testing FTP > aaa.txt
 docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' ftp
-ftp ftp <ftp value>
+ftp <ftp value>
 ```
 
 ```shell
