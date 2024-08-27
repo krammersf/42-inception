@@ -109,7 +109,7 @@ PASS: <see in .env>
 ```shell
 ls -la
 cd files
-put test.txt
+put aaa.txt
 get aaa.txt bbb.txt
 exit
 ```
