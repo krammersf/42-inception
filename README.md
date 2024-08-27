@@ -144,6 +144,12 @@ Adminer is a web-based database management tool that allows users to interact wi
 
 http://localhost:8080/adminer.php
 
+or
+
+http://login.42.fr:8080/adminer.php
+
+replace 'login' for yor login in 42'school
+
 #### How to use the credentials:
 
 System:    MySQL
@@ -165,6 +171,12 @@ Prometheus is an open-source monitoring and alerting tool initially developed by
 #### How to Test?
 
 http://localhost:9090
+
+or
+
+http://login.42.fr:9090
+
+replace 'login' for yor login in 42'school
 
 #### How to get the metrics?
 
