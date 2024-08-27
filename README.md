@@ -18,4 +18,27 @@ The setup includes:
 - Docker Compose
 - Make
 
+## ⚙️ Execution
+
+- To run, open a terminal, and in the folder where is the makefile do: 
+```shell
+make
+```
+
+## ⚙️ BONUS
+
+- adminer
+- ftp
+- prometheus
+- redis
+- static website
+
+## ⚙️ 
+
+- adminer
+- ftp
+- prometheus
+- redis
+- static website
+
 ## Grade: 125/100
