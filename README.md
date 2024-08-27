@@ -116,8 +116,8 @@ exit
 
 ```shell
 diff aaa.txt bbb.txt
-cat test.txt
-cat test2.txt
+cat aaa.txt
+cat bbb.txt
 ```
 
 ### 🏅 STATIC WEBSITE
