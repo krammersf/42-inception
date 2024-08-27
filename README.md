@@ -17,3 +17,5 @@ The setup includes:
 - Docker
 - Docker Compose
 - Make
+
+## Grade: 125/100
