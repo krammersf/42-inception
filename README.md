@@ -44,6 +44,7 @@ make
 ## ⚙️ Test BONUS
 
 ### REDIS
+---
 
 Configuring Redis as a cache for your WordPress site helps to improve the site's performance and speed by storing frequently accessed data in memory. This reduces the load on the database and speeds up the site's response time.
 Benefits of Using Redis as a Cache
