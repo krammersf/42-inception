@@ -43,7 +43,7 @@ make
 
 ## ⚙️ Test BONUS
 
-### REDIS
+### 🏅 REDIS
 ---
 
 Configuring Redis as a cache for your WordPress site helps to improve the site's performance and speed by storing frequently accessed data in memory. This reduces the load on the database and speeds up the site's response time.
@@ -80,7 +80,7 @@ KEYS *
 # response: 1 "my_key"
 ```
 
-### FTP (File Transfer Protocol)
+### 🏅 FTP (File Transfer Protocol)
 
 Setting up an FTP server container pointing to your WordPress site's volume helps facilitate the transfer of files between your local computer and the server where the WordPress site is hosted. This is useful for managing WordPress files, such as themes, plugins, media uploads, and other configuration files.
 Benefits of Using an FTP Server
@@ -121,12 +121,13 @@ cat test.txt
 cat test2.txt
 ```
 
-### STATIC WEBSITE
+### 🏅 STATIC WEBSITE
 
 http://localhost:3000/
 
 
-### ADMINER
+
+### 🏅 ADMINER
 
 Adminer is a web-based database management tool that allows users to interact with databases easily and intuitively. Here are some key points about Adminer:
 
@@ -148,7 +149,7 @@ Username:  [MDB_USER]
 Password:  [MDB_PASSWORD]
 Database:  [MDB_NAME]
 
-### PROMETHEUS
+### 🏅 PROMETHEUS
 
 Prometheus is an open-source monitoring and alerting tool initially developed by SoundCloud. It is widely used to monitor systems and services, collecting metrics in real time and allowing the creation of alerts based on these metrics. Here are some key points about Prometheus:
 
@@ -207,4 +208,4 @@ The output you've shared is a typical metrics endpoint response from a Prometheu
 - Debugging: Metrics like go_goroutines or process_open_fds can help identify resource usage patterns and potential issues.
 - Capacity Planning: Metrics such as memory usage (process_resident_memory_bytes, go_memstats_heap_sys_bytes) can assist in planning for future capacity needs.
 
-## Grade: 125/100
+## 🏆 Grade: 125/100
