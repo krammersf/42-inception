@@ -48,10 +48,10 @@ make
 Configuring Redis as a cache for your WordPress site helps to improve the site's performance and speed by storing frequently accessed data in memory. This reduces the load on the database and speeds up the site's response time.
 Benefits of Using Redis as a Cache
 
-    Performance Improvement: Redis is an extremely fast in-memory data store, which means it can provide data much faster than a traditional disk-based database.
-    Reduced Database Load: By storing frequently accessed data in Redis, you reduce the number of database queries, which can improve the scalability and stability of your site.
-    Faster Response Time: With data stored in memory, the response time for end users is significantly reduced.
-    Efficient Session Management: Redis can be used to store user sessions, which is more efficient than storing sessions in the database or file system.
+Performance Improvement: Redis is an extremely fast in-memory data store, which means it can provide data much faster than a traditional disk-based database.
+Reduced Database Load: By storing frequently accessed data in Redis, you reduce the number of database queries, which can improve the scalability and stability of your site.
+Faster Response Time: With data stored in memory, the response time for end users is significantly reduced.
+Efficient Session Management: Redis can be used to store user sessions, which is more efficient than storing sessions in the database or file system.
 
 #### Conclusion
 
