@@ -128,7 +128,7 @@ or
 
 http://login.42.fr:3000/
 
-replace <login> for yor login in 42'school
+replace 'login' for yor login in 42'school
 
 ### 🏅 ADMINER
 
