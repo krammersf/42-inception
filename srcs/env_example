@@ -1,0 +1,39 @@
+#####################################
+#            MANDATORY              #
+#####################################
+
+# Domain SETUP
+USER42_NAME = XXXXXXXXXX
+DOMAIN_NAME = XXXXXXXXXX
+
+
+# MariaDB SETUP
+MDB_NAME = XXXXXXXXXX
+MDB_HOST = XXXXXXXXXX
+MDB_USER = XXXXXXXXXX
+MDB_PASSWORD = XXXXXXXXXX
+MDB_ROOT_PASSWORD = XXXXXXXXXX
+
+
+# WordPress SETUP
+WP_ADMIN_NAME = XXXXXXXXXX
+WP_ADMIN_PASSWORD = XXXXXXXXXX
+WP_TITLE = XXXXXXXXXX
+WP_ADMIN_EMAIL = XXXXXXXXXX
+
+
+# WordPress NEW USER SETUP
+WP_USER_NAME = XXXXXXXXXX
+WP_USER_PASSWORD = XXXXXXXXXX
+WP_USER_ROLE = XXXXXXXXXX
+WP_USER_EMAIL = XXXXXXXXXX
+WP_URL = XXXXXXXXXX
+
+
+#####################################
+#               BONUS               #
+#####################################
+
+# FTP SETUP
+# FTP_USER = XXXXXXXXXX
+# FTP_PASSWORD = XXXXXXXXXX
